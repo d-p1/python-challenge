@@ -47,7 +47,7 @@ print(monthlyNet_avg)
 
 # Generate Output Summary
 output = (
-    f"Analysis:\n"
+    f" Financial Analysis:\n"
     f"------------------------\n"
     f"Total Months: {totalMonths}\n"
     f"Total: ${totalProfit}\n"
